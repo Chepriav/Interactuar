@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Interactuar.unity
+  isLoaded: 1
+  isActive: 1
